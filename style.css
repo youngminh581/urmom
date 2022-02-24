@@ -9,10 +9,7 @@ button:hover {
 }
 
 
-p {
-    font-weight: bold;
-}
 
 p span {
-    font-weight: normal;
+    font-weight: bold;
 }
