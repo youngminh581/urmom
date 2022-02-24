@@ -1,0 +1,18 @@
+button {
+    background-color: aqua;
+    border-radius: 2px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+button:hover {
+    background-color: aquamarine;
+}
+
+
+p {
+    font-weight: bold;
+}
+
+p span {
+    font-weight: normal;
+}
